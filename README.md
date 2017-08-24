@@ -3,4 +3,6 @@ Simple animation of an ornithopter like mechanism (animation made using the solu
 
 ![Alt Text](flappingWingPicture.png?raw=true "Screenshot")
 
-wing flaps...
+
+## TODO
+Add gif here instead of an image in order to demonstrate the flapping
